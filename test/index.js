@@ -1,0 +1,1 @@
+export { BottomSheet as default } from 'react-spring-bottom-sheet'
